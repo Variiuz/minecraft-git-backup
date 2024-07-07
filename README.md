@@ -1,5 +1,6 @@
 # minecraft-git-backup
-A Windows (bat) script for stashing your minecraft world(s) onto git ☁️
+A script for stashing your minecraft world(s) onto git ☁️
+Tested on Windows, also available for Linux.
 
 Requires either HTTPS setup or SSH keys (so you gotta know what u doing kinda)
 
